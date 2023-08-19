@@ -1,2 +1,3 @@
 ## this is first script ##
 validating ssh connection with GIT HUb
+Validating GIT pull command in another VM ( PULL VM has installed GIT on VM with Ubunto and clone it with commands, Created local folder to files which were getting from GIT repository )
