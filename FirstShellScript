@@ -6,5 +6,5 @@ Number2=2
 sum= 'expr $Number1 + $Number2'
 echo "number is :   $Number2 "
 echo "number is :   $Number1 "
-echo "number is :   $sum "
+echo "Sum is :   $sum "
 
