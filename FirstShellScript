@@ -3,7 +3,7 @@
 echo " Welcome to shell script "
 Number1=1
 Number2=2
-sum='expr $Number1 + $Number2'
+sum= 'expr $Number1 + $Number2'
 echo "number is :   $Number2 "
 echo "number is :   $Number1 "
 echo "number is :   $sum "
