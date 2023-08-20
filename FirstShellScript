@@ -1,10 +1,10 @@
 ## First sheel script 
 #!bin/bash
 echo " Welcome to shell script "
-Number1=$1
-echo "Enter value into Nummber1"
-Number2= $2
-echo "Enter value into Nummber1"
+Number1=1
+
+Number2= 2
+
 Sum=Number1+Number2
 echo "Sum of number is : #Sum"
 
