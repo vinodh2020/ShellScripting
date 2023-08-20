@@ -2,7 +2,9 @@
 #!bin/bash
 echo " Welcome to shell script "
 Number1=$1
+echo "Enter value into Nummber1"
 Number2= $2
+echo "Enter value into Nummber1"
 Sum=Number1+Number2
-echo " Sum of numner is + Sum"
+echo "Sum of number is : #Sum"
 
