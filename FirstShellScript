@@ -3,5 +3,6 @@
 echo " Welcome to shell script "
 Number1=1
 Number2=2
-echo " number is :  #Number1, $Number2"
+echo "number is :   $Number2 "
+echo "number is :   $Number1 "
 
