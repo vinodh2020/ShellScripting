@@ -1,8 +1,10 @@
 ## First sheel script 
 #!bin/bash
 echo " Welcome to shell script "
-Number1 =$1
-Number2 = $2
-#Sum= Number1 + Number2
-echo " Sum of numner is + $Sum"
+###Number1=1
+###Number2=2
+sum==`expr 2 + 2`
+echo "number is :   $Number2 "
+echo "number is :   $Number1 "
+echo "Sum is :   $sum "
 
